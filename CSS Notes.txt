@@ -1,2 +1,11 @@
-under body:
-	<*header* style = "font-size: (small, medium, large); text-align: center;">
+under head:
+	<style> </style>
+	*type selector*{
+			}
+		font-size:(small, medium, large)
+		text-align:(center)
+		background-color:
+		color:
+
+class selector = .*class*
+style sheet = <link href="*.css*" rel=""stylesheet"> (calls styles from another file)
