@@ -1,0 +1,28 @@
+<ul> </ul> = unordered list initiates lists for content.
+	<li> </li> = creates lists per item in order numerically.
+
+<table> </table> = iniates table
+	<tr> </tr> = table rows
+		<td> </td> = table data
+
+Images:
+	<img alt = "" src= "">
+
+Link:
+	*text*<a href="">*text*</a>
+
+Style:
+	<style> </style>
+		a (:hover)
+		{
+			color:
+			text-decoration: (underline)(none)
+		}
+		
+	id:"";
+		call an id = #id
+
+Search:
+	<form action="https://www.google.com" method="get">
+		<input name ="q" type ="search">
+		<input type ="submit" value ="search">
