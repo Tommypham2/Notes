@@ -1,0 +1,2 @@
+under body:
+	<*header* style = "font-size: (small, medium, large); text-align: center;">
